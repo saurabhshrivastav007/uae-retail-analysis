@@ -1,6 +1,7 @@
 # 🏬 UAE Retail Sector Analysis (2010–2016)
 
-This project explores the economic performance of Abu Dhabi’s wholesale and retail trade sector from 2010 to 2016 using official statistics. Through exploratory data analysis and visualization, we assess the sector’s contribution to GDP, its role in the non-oil economy, and compensation trends among employees.
+📊 An end-to-end data analysis project exploring key economic indicators in the UAE retail sector.  
+Built using Python, Pandas, Seaborn, and Jupyter — with clean EDA, insights, and professional documentation.
 
 ---
 
