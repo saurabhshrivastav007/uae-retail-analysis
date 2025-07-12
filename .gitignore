@@ -1,12 +1,12 @@
-# Ignore virtual environments
+# Ignore virtual environment
 venv/
 
-# Ignore Jupyter notebook checkpoints
+# Ignore Jupyter checkpoints
 .ipynb_checkpoints/
 
-# Ignore compiled Python files
+# Ignore cache files
 __pycache__/
 *.pyc
 
-# macOS system files
+# macOS metadata
 .DS_Store
