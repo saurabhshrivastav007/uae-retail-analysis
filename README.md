@@ -3,7 +3,7 @@
 📊 An end-to-end data analysis project exploring key economic indicators in the UAE retail sector.  
 Built using Python, Pandas, Seaborn, and Jupyter — with clean EDA, insights, and professional documentation.
 
----
+----
 
 ## 📊 Key Questions
 
